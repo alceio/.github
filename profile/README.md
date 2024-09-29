@@ -1,5 +1,5 @@
 # Alceio
-*"Decisions democratized."*
+*"A Lot of Choices... Evaluate Including Others"*
 
 ## Introduction
 Alceio is a platform that allows groups of people to collaborate together in complex decision-making. 
